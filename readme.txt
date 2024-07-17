@@ -1,1 +1,0 @@
-Sistema de registro de cambios del portafolio
